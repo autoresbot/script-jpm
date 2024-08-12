@@ -1,0 +1,15 @@
+{
+  "name": "script-jpm",
+  "version": "1.0.0",
+  "description": "script jasa share",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "script",
+    "jpm"
+  ],
+  "author": "azhari creative",
+  "license": "ISC"
+}
