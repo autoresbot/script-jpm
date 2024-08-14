@@ -1,4 +1,4 @@
-# Nama Proyek
+# SCRIPT JPM & PUSHKONTAK
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
