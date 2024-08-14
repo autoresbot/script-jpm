@@ -4,7 +4,7 @@
 
 ## Deskripsi
 
-Script jpm and pushkontak, kamu juga bisa mendownload di website resmi autoresbot [Autoresbot](https://autoresbot.com)
+Script jpm and pushkontak, kamu juga bisa mendownload di website resmi autoresbot [Autoresbot](https://autoresbot.com/download)
 
 ## Informasi Versi
 
@@ -27,7 +27,7 @@ Script jpm and pushkontak, kamu juga bisa mendownload di website resmi autoresbo
    ```
 2. Masuk ke direktori proyek:
    ```bash
-   cd repo-name
+   cd script-jpm
    ```
 3. Instal dependensi:
    ```bash
@@ -45,10 +45,6 @@ Script jpm and pushkontak, kamu juga bisa mendownload di website resmi autoresbo
 Ketik .menu untuk menampilkan menu
 
 - hanya nomor yang di izinkan yang dapat chat bot, (setting di file config.js)
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 ## Kontak
 
