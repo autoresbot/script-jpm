@@ -7,7 +7,7 @@ global.jeda = 5000; // 5 detik jeda pengiriman untuk pushkontak atau broadcast
 
 global.name_script = 'Script Jpm';
 
-global.version = '1.1';
+global.version = '1.2';
 
 
 module.exports = { numberAllowed};

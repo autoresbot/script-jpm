@@ -1,6 +1,6 @@
 # SCRIPT JPM & PUSHKONTAK
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub version](https://img.shields.io/badge/version-1.1-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![GitHub version](https://img.shields.io/badge/version-1.2-brightgreen.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 ## Deskripsi
 
@@ -8,8 +8,8 @@ Script jpm and pushkontak, kamu juga bisa mendownload di website resmi autoresbo
 
 ## Informasi Versi
 
-- **Versi:** JPM 1.1
-- **Update Terakhir:** 15 Juli 2024, 00:00 WIB
+- **Versi:** JPM 1.2
+- **Update Terakhir:** 25 Agustus 2024, 00:00 WIB
 - **Website:** [autoresbot.com](https://autoresbot.com)
 
 ## Fitur
